@@ -1,0 +1,18 @@
+.practice {
+    background-color:#FFB6C1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.practice#number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: aquamarine;
+    font-size: 24px;
+}
